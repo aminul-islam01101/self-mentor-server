@@ -8,7 +8,7 @@ app.use(cors());
 const categories = require('./data/categories.json');
 
 app.get('/', (req, res) => {
-  res.send('server Running');
+  res.send('server Running update');
 });
 
 app.get('/categories', (req, res) => {
