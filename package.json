@@ -1,24 +1,29 @@
 {
-  "version": "0.1.0",
-  "private": true,
-  "type": "module",
+  "name": "self-mentor-server",
+  "version": "1.0.0",
+  "description": "Project Name: self-mentor",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js",
-    "lint": "yarn add -D eslint prettier npx install-peerdeps --dev eslint-config-airbnb-base yarn add -D eslint-config-prettier eslint-plugin-prettier"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "devDependencies": {
-    "eslint": "^8.25.0",
-    "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-import": "2.25.2",
-    "eslint-plugin-prettier": "^4.2.1",
-    "prettier": "^2.7.1"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-aminul-islam01101.git"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-aminul-islam01101/issues"
+  },
+  "homepage": "https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-aminul-islam01101#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.18.2",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
     "nodemon": "^2.0.20"
   }
 }
