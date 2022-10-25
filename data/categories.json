@@ -1,34 +1,34 @@
 [
-    {
-      "id": "01",
-      "name": "leadership"
-    },
-    {
-      "id": "02",
-      "name": "Stress Management"
-    },
-    {
-      "id": "03",
-      "name": "Personal Brand Building"
-    },
-    {
-      "id": "04",
-      "name": "Personal Productivity"
-    },
-    {
-      "id": "05",
-      "name": "Career Development"
-    },
-    {
-      "id": "06",
-      "name": "Personal Transformation"
-    },
-    {
-      "id": "07",
-      "name": "Self Esteem and Confidence"
-    },
-    {
-      "id": "08",
-      "name": "Memory and Study skill"
-    }
-  ]
+  {
+    "id": "01",
+    "name": "leadership"
+  },
+  {
+    "id": "02",
+    "name": "Stress Management"
+  },
+  {
+    "id": "03",
+    "name": "Personal Brand Building"
+  },
+  {
+    "id": "04",
+    "name": "Personal Productivity"
+  },
+  {
+    "id": "05",
+    "name": "Career Development"
+  },
+  {
+    "id": "06",
+    "name": "Personal Transformation"
+  },
+  {
+    "id": "07",
+    "name": "Self Esteem and Confidence"
+  },
+  {
+    "id": "08",
+    "name": "Memory and Study skill"
+  }
+]
