@@ -14,14 +14,14 @@
       "lectures": 87,
       "level": "intermediate",
       "tags": "Best-seller",
-      "Language": ["English", "french"]
+      "Language": "English"
     },
 
     "author": {
       "name": "Jimmy Hills",
       "published_date": "2022-08-24 17:27:34",
-      "LastUpdated": "2022-10-24 17:27:34",
-      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      "LastUpdated": "2022-10-24 17:27:34"
+     
     },
     "thumbnail_url": "https://img.freepik.com/free-photo/diverse-black-employee-white-boss-arguing-work_1163-5137.jpg?w=996&t=st=1666790462~exp=1666791062~hmac=f5689f4b6e40c999181b0ae4d7d4bdc12bd73e01736e359271b26b245772b18f",
     "image_url": "https://img.freepik.com/free-photo/angry-manager-woman-arguing-disagreeing-about-bad-business-contract-diverse-colleagues-having-conflict-dispute-about-document-sitting-office-desk-during-brainstorming-partners-working-boardroom_482257-13757.jpg?w=996&t=st=1666790397~exp=1666790997~hmac=e63f946fc536f5d007656be5e39080ebbeda4b7bb3af9d2fcb044d045aaae913",
@@ -33,6 +33,477 @@
       "Conflict Management Personality Types",
       "conflict management in practical workplace"
     ],
-    " price": 89.65
+    "price": "89.65",
+    "keywords": ["conflicts", "leadership", "management"]
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+
+    "category_id": "01",
+    "courseTitle": "Communication Skills",
+    "totalEnrolled": 4588,
+    "ratings": {
+      "point": 4.7,
+      "ratingsGiven": 3655
+    },
+    "stats": {
+      "hours": 13.5,
+      "lectures": 107,
+      "level": "intermediate",
+      "tags": "Rising Star",
+      "Language": "English"
+    },
+
+    "author": {
+      "name": "Jason aman",
+      "published_date": "2021-08-24 17:27:34",
+      "LastUpdated": "2022-11-24 17:27:34"
+     
+    },
+    "thumbnail_url": "https://img.freepik.com/free-vector/internet-communication_24877-51941.jpg?w=740&t=st=1666848874~exp=1666849474~hmac=873577aa1ddfd135ec223fe5e3968bf48f4d0e341b19565d984094816d27fca7",
+    "image_url": "https://img.freepik.com/free-vector/hand-drawn-business-communication-concept_23-2149171107.jpg?w=996&t=st=1666848823~exp=1666849423~hmac=e99ac573b0a719caecde7b91148529866813dc2c486350c2bc69c5058ef2942c",
+    "details_2": "Over the course of your lifetime, you are likely to have to interact with a wide range of organisations and institutions, including shops, businesses, government offices, and schools. Good communication skills can ease these interactions, and ensure that you are able to get your point across calmly and clearly, and also take on board the responses.",
+    "details_1": "Communication, at its simplest, is the act of transferring information from one place to another. It may be vocally (using voice), written (using printed or digital media such as books, magazines, websites or emails), visually (using logos, maps, charts or graphs) or non-verbally (using body language, gestures and the tone and pitch of voice). In practice, it is often a combination of several of these. ",
+    "bullets": [
+      "Communication method",
+      "Friendliness Styles",
+      "Active listening",
+      "Empathy",
+      "NON-VERBAL AND VISUAL COMMUNICATION",
+      "ORAL COMMUNICATION"
+    ],
+    "price": "109.65",
+    "keywords": ["Communication", "leadership", "management"]
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6c",
+
+    "category_id": "02",
+    "courseTitle": "Anxiety Management",
+    "totalEnrolled": 3088,
+    "ratings": {
+      "point": 4.3,
+      "ratingsGiven": 2155
+    },
+    "stats": {
+      "hours": 4.5,
+      "lectures": 57,
+      "level": "Beginner",
+      "tags": "Best Seller",
+      "Language": "English"
+    },
+
+    "author": {
+      "name": "Robert song",
+      "published_date": "2022-08-04 17:27:34",
+      "LastUpdated": "2022-01-24 17:27:34"
+     
+    },
+    "thumbnail_url": "https://img.freepik.com/free-vector/anxiety-concept-illustration_114360-8054.jpg?w=740&t=st=1666849494~exp=1666850094~hmac=707e6853ef994337752dfb1fc65d65f4ff23aa945e76552f5ba48c032860ade7",
+    "image_url": "https://img.freepik.com/free-vector/tips-anxiety-infographic_23-2148530056.jpg?w=996&t=st=1666849450~exp=1666850050~hmac=81f9f3b311b19ada004407922055adc94f4c74a6c1e7eb43efc561181a702692",
+    "details_2": "Research studies have shown that psychological therapies, such as cognitive behaviour therapy, are much more effective than medications in managing anxiety disorders in the long term. Your doctor may prescribe a brief course of tranquillisers or antidepressants to help you deal with your symptoms while other treatment options are given a chance to take effect.",
+    "details_1": "Anxiety disorders can be distressing and debilitating. They may contribute to loss of educational and employment opportunities and difficulties in family and social relationships.Recovery is possible with appropriate treatment such as exposure therapy, attention training, and a range of anxiety management techniques that can help you manage your symptoms. You can learn the following strategies yourself (using books or taking courses, for example) or you can consult with a trained professional.",
+    "bullets": [
+      "Progressive muscle relaxation",
+      "Healthy lifestyle",
+      "Plan worry time",
+      "Empathy",
+      "Get to know your anxiety"
+      
+    ],
+    "price": "59.65",
+    "keywords": ["Communication", "anxiety", "management"]
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6d",
+
+    "category_id": "02",
+    "courseTitle": "21 Days in Emotional Intelligence",
+    "totalEnrolled": 2088,
+    "ratings": {
+      "point": 4.5,
+      "ratingsGiven": 1235
+    },
+    "stats": {
+      "hours": 7.5,
+      "lectures": 67,
+      "level": "Pro",
+      "tags": "Best Seller",
+      "Language": "English-French"
+    },
+
+    "author": {
+      "name": "Robert Leila",
+      "published_date": "2022-04-04 17:27:34",
+      "LastUpdated": "2022-05-24 17:27:34"
+     
+    },
+    "thumbnail_url": "https://img.freepik.com/free-vector/mental-health-awareness-concept_23-2148523714.jpg?w=740&t=st=1666850207~exp=1666850807~hmac=4b83571802bab46a11985e85e83e3bd9af2ff20fcec59b40e0b4ca4efb1b5fc9",
+    "image_url": "https://img.freepik.com/free-psd/diverse-people-covered-with-emoticons_53876-12014.jpg?w=996&t=st=1666850177~exp=1666850777~hmac=d7399b67c7364d77140ec75fcf534449464ecd19e3835a473f257eb86b03b8b3",
+    "details_2": "Interest in teaching and learning social and emotional intelligence has grown in recent years. Social and emotional learning (SEL) programs have become a standard part of the curriculum for many schools.The goal of these initiatives is not only to improve health and well-being but also to help students succeed academically and prevent bullying. There are many examples of how emotional intelligence can play a role in daily life.",
+    "details_1": "Emotional intelligence is defined as the ability to understand and manage your own emotions, as well as recognize and influence the emotions of those around you. The term was first coined in 1990 by researchers John Mayer and Peter Salovey, but was later popularized by psychologist Daniel Goleman.",
+    "bullets": [
+      "Self-confidence and self-acceptance",
+      "The ability to let go of mistakes",
+      "An ability to accept and embrace change",
+      "Feelings of empathy and concern for others",
+      "Accepting responsibility for mistakes",
+      "An awareness of personal strengths and limitations"
+      
+    ],
+    "price": "79.65",
+    "keywords": ["Communication", "emotion", "management"]
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
+
+    "category_id": "03",
+    "courseTitle": "Personal Branding: Building Professional Performance",
+    "totalEnrolled": 1188,
+    "ratings": {
+      "point": 4.1,
+      "ratingsGiven": 235
+    },
+    "stats": {
+      "hours": 2.5,
+      "lectures": 27,
+      "level": "Pro-Mid",
+      "tags": "Rising Seller",
+      "Language": "English-Bangla"
+    },
+
+    "author": {
+      "name": "Aman U Khan",
+      "published_date": "2022-01-04 17:27:34",
+      "LastUpdated": "2022-05-21 17:27:34"
+     
+    },
+    "thumbnail_url": "https://img.freepik.com/free-vector/isometric-with-people-working-new-brand-strategy-3d-illustration_1284-63994.jpg?w=740&t=st=1666850804~exp=1666851404~hmac=bcafcffb39a63b236214ebc30e1da2c42fab145c702ab71df1383f4c2a527cb2",
+    "image_url": "https://img.freepik.com/free-psd/assortment-minimal-coffee-mugs_23-2149027133.jpg?w=996&t=st=1666850759~exp=1666851359~hmac=b615a896b60aeb0fe029f96594a463c922c23bb71fece0a62a4de56d2c3617ed",
+    "details_2": "Before we jump in, however, I want you to know there is one vital characteristic you will need to take your personal brand and career to the next level — the determination to see it through. Take it from me, there will be bumps and obstacles along the way, and you may need to make occasional course corrections to get back on track. But that’s okay. A little adversity comes with the territory, and you need to be prepared to push through the inevitable head winds.",
+    "details_1": "Have you ever wondered why certain individuals in your field rise out of nowhere to national prominence? These experts get all the media attention, deliver keynotes at top conferences and attract the best clients. Are these men and women just smarter than the rest of us? Or are they privy to some magical personal branding strategy that the rest of us don’t know about?",
+    "bullets": [
+      "Authenticity",
+      "The ability to let go of mistakes",
+      "Authority",
+      "Aspiration",
+      "Affinity"
+      
+    ],
+    "price": "79.65",
+    "keywords": ["Communication", "emotion", "management"]
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6f",
+
+    "category_id": "03",
+    "courseTitle": "Smart Marketing with Demand Psychology",
+    "totalEnrolled": 1588,
+    "ratings": {
+      "point": 4.4,
+      "ratingsGiven": 1235
+    },
+    "stats": {
+      "hours": 4.5,
+      "lectures": 67,
+      "level": "Advanced",
+      "tags": "Best Seller",
+      "Language": "English-Chinese"
+    },
+
+    "author": {
+      "name": "Amang Ung Khang",
+      "published_date": "2022-01-04 17:27:34",
+      "LastUpdated": "2022-05-21 17:27:34"
+     
+    },
+    "thumbnail_url": "https://img.freepik.com/free-vector/mobile-marketing-concept-illustration_114360-1497.jpg?w=740&t=st=1666851195~exp=1666851795~hmac=d197be575c86312871c36500ee2aa34e3ac534a68eb957526a8f8175d66f35a1",
+    "image_url": "https://img.freepik.com/free-vector/social-media-background_127544-1091.jpg?w=996&t=st=1666851227~exp=1666851827~hmac=49e6c7dc1c0fab1e4baa05ad097306bea1ccd7a018a6a5414b08e1f560c054cb",
+    "details_2": "For marketers, this phenomenon is precisely why nurturing is incredibly important. Once someone starts noticing your brand (aka clicking around on your website), you'll want to help them start seeing you everywhere. Send them targeted nurturing emails and retargeting ads based on their behavior, and you could increase the possibility of them converting.",
+    "details_1": "Have you ever played the game where one person says a word, and the other immediately responds with the first thing that comes to mind? That's kind of how priming works. You're exposed to one stimulus, and it affects how you respond to another stimulus. Psychology Today gives the example of two groups of people reading the word yellofollowed by either sky or banana. Because people have a semantic association between the fruit and its color, the yellow-banana group will recognize the word banana faster than the yellow-sky group recognizes sky. ",
+    "bullets": [
+      "Reciprocity ",
+      "Social Proof ",
+      "Decoy Effect",
+      "Aspiration",
+      "Affinity"
+      
+    ],
+    "price": "49.65",
+    "keywords": ["Communication", "Marketing", "management"]
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
+
+    "category_id": "04",
+    "courseTitle": "Productivity and Time Management for the Best",
+    "totalEnrolled": 1588,
+    "ratings": {
+      "point": 4.4,
+      "ratingsGiven": 1235
+    },
+    "stats": {
+      "hours": 4.5,
+      "lectures": 67,
+      "level": "Advanced",
+      "tags": "Best Seller",
+      "Language": "English-Chinese"
+    },
+
+    "author": {
+      "name": "Amang Ung Khang",
+      "published_date": "2022-01-04 17:27:34",
+      "LastUpdated": "2022-05-21 17:27:34"
+     
+    },
+    "thumbnail_url": "https://img.freepik.com/free-vector/soft-skills-concept-with-confident-worker-looking-his-reflection-superhero-mirror-isometric_1284-63035.jpg?w=740&t=st=1666851648~exp=1666852248~hmac=5e784d111688ed43c3adc532afb88280b89eed8fbf67e44b4db0116a08ef95e7",
+    "image_url": "https://img.freepik.com/free-vector/personal-growth-self-development-composition-with-male-human-characters-illustration_1284-54127.jpg?w=996&t=st=1666851610~exp=1666852210~hmac=82908cba657b359c1769d0b8619c623ffe1599d749055dff8a2417156c1ce794",
+    "details_2": "For marketers, this phenomenon is precisely why nurturing is incredibly important. Once someone starts noticing your brand (aka clicking around on your website), you'll want to help them start seeing you everywhere. Send them targeted nurturing emails and retargeting ads based on their behavior, and you could increase the possibility of them converting.",
+    "details_1": "Have you ever played the game where one person says a word, and the other immediately responds with the first thing that comes to mind? That's kind of how priming works. You're exposed to one stimulus, and it affects how you respond to another stimulus. Psychology Today gives the example of two groups of people reading the word yellofollowed by either sky or banana. Because people have a semantic association between the fruit and its color, the yellow-banana group will recognize the word banana faster than the yellow-sky group recognizes sky. ",
+    "bullets": [
+      "Reciprocity ",
+      "Time Management ",
+      "Decoy Effect",
+      "Aspiration",
+      "Affinity"
+      
+    ],
+    "price": "79.65",
+    "keywords": ["Communication", "Marketing", "management"]
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6h",
+
+    "category_id": "04",
+    "courseTitle": "SUPERHUMAN Focus: Maximize Your Brain",
+    "totalEnrolled": 1588,
+    "ratings": {
+      "point": 4.4,
+      "ratingsGiven": 1235
+    },
+    "stats": {
+      "hours": 4.5,
+      "lectures": 67,
+      "level": "Advanced",
+      "tags": "Best Seller",
+      "Language": "English-Chinese"
+    },
+
+    "author": {
+      "name": "Robert Ung Khang",
+      "published_date": "2022-01-04 17:27:34",
+      "LastUpdated": "2022-05-21 17:27:34"
+     
+    },
+    "thumbnail_url": "https://img.freepik.com/free-vector/focus-abstract-concept_335657-3014.jpg?w=740&t=st=1666851862~exp=1666852462~hmac=f7c7e69bafe65ab54bd99a79a277b05893ef485ca73d0182257c7cff31eef14d",
+    "image_url": "https://img.freepik.com/free-photo/closeup-eye-man_53876-26167.jpg?w=996&t=st=1666851825~exp=1666852425~hmac=3505c119b34da1a93062cd2decbf81a41d8af9cddf94eb8c90c20fd4dedda89f",
+    "details_2": "For marketers, this phenomenon is precisely why nurturing is incredibly important. Once someone starts noticing your brand (aka clicking around on your website), you'll want to help them start seeing you everywhere. Send them targeted nurturing emails and retargeting ads based on their behavior, and you could increase the possibility of them converting.",
+    "details_1": "Have you ever played the game where one person says a word, and the other immediately responds with the first thing that comes to mind? That's kind of how priming works. You're exposed to one stimulus, and it affects how you respond to another stimulus. Psychology Today gives the example of two groups of people reading the word yellofollowed by either sky or banana. Because people have a semantic association between the fruit and its color, the yellow-banana group will recognize the word banana faster than the yellow-sky group recognizes sky. ",
+    "bullets": [
+      "Reciprocity ",
+      "Time Management ",
+      "Decoy Effect",
+      "Aspiration",
+      "Affinity"
+      
+    ],
+    "price": "79.65",
+    "keywords": ["Communication", "Personal", "management"]
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6i",
+
+    "category_id": "05",
+    "courseTitle": "[2022] Career Hacking: World's Bestselling Job Finder",
+    "totalEnrolled": 1588,
+    "ratings": {
+      "point": 4.4,
+      "ratingsGiven": 1235
+    },
+    "stats": {
+      "hours": 4.5,
+      "lectures": 67,
+      "level": "Advanced",
+      "tags": "Market Leader",
+      "Language": "English-Chinese"
+    },
+
+    "author": {
+      "name": "John ula",
+      "published_date": "2022-01-04 17:27:34",
+      "LastUpdated": "2022-05-21 17:27:34"
+     
+    },
+    "thumbnail_url": "https://img.freepik.com/free-vector/job-interview-concept-idea-employment-hiring-procedure-recruiter-searching-job-candidate-isolated-flat-vector-illustration_613284-2727.jpg?w=740&t=st=1666852248~exp=1666852848~hmac=3befb4b137bd8d4fea2ebfcca83964de3b37b9e9a59f8ad5fb5907888273faa4",
+    "image_url": "https://img.freepik.com/free-vector/job-search-composition-with-indoor-scenery-character-female-applicant-sitting-front-employers-illustration_1284-65483.jpg?w=996&t=st=1666852217~exp=1666852817~hmac=23a53d9135aa835446bab83bd7dfe72efac148182bf1a975667ae516f6918698",
+    "details_2": "In order to establish the critically important element of rapport with the interviewee, a genuine attempt should be made to put the interviewee at ease—especially in job application, promotion, or other interviews where significant differences in status exist. Unfortunately, sometimes this rapport is attempted by such gaucheries as, “Now, don’t be nervous!” or, “Relax!”",
+    "details_1": "The executive engaged in the normal conduct of business devotes much of his time to interviewing. However, there is an appalling lack of effort given to systematic attempts at building improvements into this age-old process. Interviewing remains one of those activities which we think we know all about merely because we have been doing it so long; we have been lulled by habit. It seems apparent that a modest effort aimed at an analysis of our interviewing techniques would yield generous returns. ",
+    "bullets": [
+      "Punctuality",
+      "Time Management ",
+      "Communication",
+      "Aspiration",
+      "Listening"
+      
+    ],
+    "price": "79.65",
+    "keywords": ["Communication", "job", "management"]
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6j",
+
+    "category_id": "05",
+    "courseTitle": "Top .5% Resume Writing: Write A Resume, Cover Letter, CV",
+    "totalEnrolled": 1588,
+    "ratings": {
+      "point": 4.4,
+      "ratingsGiven": 1235
+    },
+    "stats": {
+      "hours": 4.5,
+      "lectures": 67,
+      "level": "Advanced",
+      "tags": "Rising Leader",
+      "Language": "English-Chinese"
+    },
+
+    "author": {
+      "name": "max fular",
+      "published_date": "2022-01-04 17:27:34",
+      "LastUpdated": "2022-05-21 17:27:34"
+     
+    },
+    "thumbnail_url": "https://img.freepik.com/free-vector/minimalist-cv-template_23-2148938550.jpg?w=740&t=st=1666852580~exp=1666853180~hmac=f5bf072992109872751714a30cfa1e6830831ea1673f71eb772950fa6b093e63",
+    "image_url": "https://img.freepik.com/free-photo/african-american-applicant-holding-resume-job-interview-close-up-view_1163-4641.jpg?w=996&t=st=1666852493~exp=1666853093~hmac=f92521a1d0bdc1394b884111dffbf7e7b1ab5c55a50c6572a10e200d9531c443",
+    "details_2": "In order to establish the critically important element of rapport with the interviewee, a genuine attempt should be made to put the interviewee at ease—especially in job application, promotion, or other interviews where significant differences in status exist. Unfortunately, sometimes this rapport is attempted by such gaucheries as, “Now, don’t be nervous!” or, “Relax!”",
+    "details_1": "The executive engaged in the normal conduct of business devotes much of his time to interviewing. However, there is an appalling lack of effort given to systematic attempts at building improvements into this age-old process. Interviewing remains one of those activities which we think we know all about merely because we have been doing it so long; we have been lulled by habit. It seems apparent that a modest effort aimed at an analysis of our interviewing techniques would yield generous returns. ",
+    "bullets": [
+      "Punctuality",
+      "Time Management ",
+      "Communication",
+      "Aspiration",
+      "Listening"
+      
+    ],
+    "price": "79.65",
+    "keywords": ["Communication", "job", "management"]
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6j",
+
+    "category_id": "05",
+    "courseTitle": "Top .5% Resume Writing: Write A Resume, Cover Letter, CV",
+    "totalEnrolled": 1588,
+    "ratings": {
+      "point": 4.4,
+      "ratingsGiven": 1235
+    },
+    "stats": {
+      "hours": 4.5,
+      "lectures": 67,
+      "level": "Advanced",
+      "tags": "Rising Leader",
+      "Language": "English-Chinese"
+    },
+
+    "author": {
+      "name": "max fular",
+      "published_date": "2022-01-04 17:27:34",
+      "LastUpdated": "2022-05-21 17:27:34"
+     
+    },
+    "thumbnail_url": "https://img.freepik.com/free-vector/minimalist-cv-template_23-2148938550.jpg?w=740&t=st=1666852580~exp=1666853180~hmac=f5bf072992109872751714a30cfa1e6830831ea1673f71eb772950fa6b093e63",
+    "image_url": "https://img.freepik.com/free-photo/african-american-applicant-holding-resume-job-interview-close-up-view_1163-4641.jpg?w=996&t=st=1666852493~exp=1666853093~hmac=f92521a1d0bdc1394b884111dffbf7e7b1ab5c55a50c6572a10e200d9531c443",
+    "details_2": "In order to establish the critically important element of rapport with the interviewee, a genuine attempt should be made to put the interviewee at ease—especially in job application, promotion, or other interviews where significant differences in status exist. Unfortunately, sometimes this rapport is attempted by such gaucheries as, “Now, don’t be nervous!” or, “Relax!”",
+    "details_1": "The executive engaged in the normal conduct of business devotes much of his time to interviewing. However, there is an appalling lack of effort given to systematic attempts at building improvements into this age-old process. Interviewing remains one of those activities which we think we know all about merely because we have been doing it so long; we have been lulled by habit. It seems apparent that a modest effort aimed at an analysis of our interviewing techniques would yield generous returns. ",
+    "bullets": [
+      "Punctuality",
+      "Time Management ",
+      "Communication",
+      "Aspiration",
+      "Listening"
+      
+    ],
+    "price": "79.65",
+    "keywords": ["Communication", "job", "management"]
+  },
+
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6o",
+
+    "category_id": "08",
+    "courseTitle": "Concept Map and Mind Maps: Learn Easy Way",
+    "totalEnrolled": 588,
+    "ratings": {
+      "point": 4.1,
+      "ratingsGiven": 135
+    },
+    "stats": {
+      "hours": 4.5,
+      "lectures": 67,
+      "level": "Beginner",
+      "tags": "Rising Leader",
+      "Language": "English"
+    },
+
+    "author": {
+      "name": "Bill William",
+      "published_date": "2022-01-04 17:27:34",
+      "LastUpdated": "2022-05-21 17:27:34"
+     
+    },
+    "thumbnail_url": "https://img.freepik.com/free-vector/ideas-sketch_53876-28416.jpg?w=996&t=st=1666853184~exp=1666853784~hmac=cb2b58024674204856f63bdaaeaf03ee798b72a012b5f93ac8b214e93a8161f6",
+    "image_url": "https://img.freepik.com/free-vector/business-plan-scribbled-notepad_53876-25940.jpg?w=996&t=st=1666853167~exp=1666853767~hmac=f51b21c8d3ed668f8efe6312a07e3dfec57c6d2b6dc03f659d1304d5fe56d848",
+    "details_2": "It is hard to make justice to the number of uses mind maps can have – the truth is that they can help clarify your thinking in pretty much anything, in many different contexts: personal, family, educational or business. Planning you day or planning your life, summarizing a book, launching a project, planning and creating presentations, writing blog posts -well, you get the idea – anything, really.",
+    "details_1": "A mind map is a graphical way to represent ideas and concepts. It is a visual thinking tool that helps structuring information, helping you to better analyze, comprehend, synthesize, recall and generate new ideas.Just as in every great idea, its power lies in its simplicity.In a mind map, as opposed to traditional note taking or a linear text, information is structured in a way that resembles much more closely how your brain actually works. Since it is an activity that is both analytical and artistic, it engages your brain in a much, much richer way, helping in all its cognitive functions. And, best of all, it is fun! ",
+    "bullets": [
+      "Problem solving",
+      "Planning ",
+      "Communication",
+      "Presenting information",
+      "Jogging your creativity"
+      
+    ],
+    "price": "79.65",
+    "keywords": ["Self-help", "development", "management"]
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6k",
+
+    "category_id": "06",
+    "courseTitle": "How To Find Yourself: Pro way",
+    "totalEnrolled": 588,
+    "ratings": {
+      "point": 4.1,
+      "ratingsGiven": 135
+    },
+    "stats": {
+      "hours": 4.5,
+      "lectures": 67,
+      "level": "Beginner",
+      "tags": "Rising Leader",
+      "Language": "English"
+    },
+
+    "author": {
+      "name": "max curran",
+      "published_date": "2022-01-04 17:27:34",
+      "LastUpdated": "2022-05-21 17:27:34"
+     
+    },
+    "thumbnail_url": "https://img.freepik.com/free-vector/self-made-businessman-career-ladder-personal-improvement-new-opportunity-man-with-cubes-building-stairs-business-growth-strategy-development_335657-2090.jpg?w=740&t=st=1666852944~exp=1666853544~hmac=1183e5653d09bd3b1effa961e4add71d91fd1fd2a9e7d1295fbf5a946233a71a",
+    "image_url": "https://img.freepik.com/free-photo/value-personal-development-stock-market-stock_53876-132288.jpg?w=996&t=st=1666852917~exp=1666853517~hmac=e4530ae1802f8fe3b7d106407b9aade70d5032fcbbc07455c470a64352dc67f5",
+    "details_2": "In order to establish the critically important element of rapport with the interviewee, a genuine attempt should be made to put the interviewee at ease—especially in job application, promotion, or other interviews where significant differences in status exist. Unfortunately, sometimes this rapport is attempted by such gaucheries as, “Now, don’t be nervous!” or, “Relax!”",
+    "details_1": "The executive engaged in the normal conduct of business devotes much of his time to interviewing. However, there is an appalling lack of effort given to systematic attempts at building improvements into this age-old process. Interviewing remains one of those activities which we think we know all about merely because we have been doing it so long; we have been lulled by habit. It seems apparent that a modest effort aimed at an analysis of our interviewing techniques would yield generous returns. ",
+    "bullets": [
+      "Punctuality",
+      "Time Management ",
+      "Communication",
+      "Aspiration",
+      "Listening"
+      
+    ],
+    "price": "79.65",
+    "keywords": ["Self-help", "development", "management"]
   }
 ]
